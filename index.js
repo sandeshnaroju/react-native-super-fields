@@ -2,7 +2,7 @@ import Mapper, {
   validateFields,
   getValuesAfterValidation,
   isVertical,
-} from './Mapper'
-import UInput from './UInput'
+} from './src/Mapper'
+import UInput from './src/UInput'
 
 export {Mapper, validateFields, getValuesAfterValidation, isVertical, UInput}
